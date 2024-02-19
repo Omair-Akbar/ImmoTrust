@@ -60,11 +60,11 @@
   * {
     @apply border-border;
   }
-  body {
+  body { 
     @apply bg-background text-foreground;
   }
 }
 
 .Navbar-color {
   background: linear-gradient(to right, #2c465c, #419392, #2c465c);
-}
+} 
