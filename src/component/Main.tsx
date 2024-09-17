@@ -14,7 +14,7 @@ export default function Main() {
         </div>
       </div>
 
-<ScrollArea className='h-[67vh] rounded-b-lg shadow-md '>
+<ScrollArea className='h-[77vh] rounded-b-lg shadow-md '>
       {[1, 2,3].map((i) => (
         <div key={i} className="bg-white  overflow-hidden">
           <div className="p-6 flex flex-col md:flex-row gap-6">
